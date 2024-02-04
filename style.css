@@ -297,7 +297,8 @@ progress{
 }
 .page4 .Gallery{
     height: 100%;
-    width: 82vw;
+/*     width: 82vw; */
+    width: 100%;
     /* background-color: #FFE54C; */
     /* margin-left: 3vw; */
     /* overflow: hidden;
@@ -355,7 +356,8 @@ progress{
 }
 .page5 .Gallery{
     height: 100%;
-    width: 82vw;
+/*     width: 82vw; */
+    width: 100%;
     /* background-color: #FFE54C; */
     /* margin-left: 3vw; */
     /* overflow: hidden;

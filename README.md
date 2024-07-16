@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/rishabhshuklayt" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rishabhshuklayt?logo=twitter&style=for-the-badge" alt="https://twitter.com/rishabhshuklayt" /></a> </p>
 
-- 🔭 I’m currently working on **Gate Pass Management System**
+- 🔭 I’m currently working on **Campus Routes (PWA)**
 
-- 🌱 I’m currently learning **Reactjs Nodejs MONGO SQL JAVA PYTHON**
+- 🌱 I’m currently learning **Reactjs Nodejs MONGO SQL Express JAVA PYTHON**
 
 - 👯 I’m looking to collaborate on **ARCQ Portal**
 

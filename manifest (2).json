@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Portfolio",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "portfolio",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "my port",
+  "lang": "en",
+  "display_override": [
+    "browser",
+    "fullscreen",
+    "minimal-ui",
+    "standalone",
+    "window-controls-overlay"
+  ],
+  "iarc_rating_id": "Portfolio ages IARC id",
+  "prefer_related_applications": true,
+  "categories": [
+    "social"
+  ]
+}

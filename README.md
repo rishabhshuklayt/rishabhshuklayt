@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/rishabhshuklayt" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rishabhshuklayt?logo=twitter&style=for-the-badge" alt="https://twitter.com/rishabhshuklayt" /></a> </p>
 
-- 🔭 I’m currently working on **Campus Routes (PWA)**
+- 🔭 I’m currently working on **Agentic Ai Voice Assistant**
 
-- 🌱 I’m currently learning **Reactjs Nodejs MONGO SQL Express JAVA PYTHON**
+- 🌱 I’m currently learning **Reactjs Nodejs MONGO SQL Express JAVA PYTHON React Native**
 
-- 👯 I’m looking to collaborate on **ARCQ Portal**
+- 👯 I’m looking to collaborate on **NQR MENU**
 
 - 🤝 I’m looking for help with **BEGINNERS INDUSTRY EXPERTS**
 
 - 👨‍💻 All of my projects are available at [rishabhshuklayt.github.io/rishabhshuklayt](rishabhshuklayt.github.io/rishabhshuklayt)
 
-- 💬 Ask me about **Gsap, Locomotove, AOS ,Ethical Hacking**
+- 💬 Ask me about **Gsap, Locomotove, AOS ,Ethical Hacking, Agentic AI, WEB.D**
 
 - 📫 How to reach me **rishabhshuklayt@gmail,com**
 
